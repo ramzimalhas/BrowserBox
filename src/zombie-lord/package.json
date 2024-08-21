@@ -9,7 +9,7 @@
     "esm": "latest",
     "hasha": "latest",
     "is-docker": "latest",
-    "node-fetch": "latest",
+    "node-fetch": "3.3.2",
     "ws": "latest"
   },
   "scripts": {
