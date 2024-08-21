@@ -10,7 +10,7 @@
     "hasha": "latest",
     "is-docker": "latest",
     "node-fetch": "latest",
-    "ws": "latest"
+    "ws": "8.18.0"
   },
   "scripts": {
     "start": "node index.js",
