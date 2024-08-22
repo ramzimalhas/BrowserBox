@@ -69,7 +69,7 @@
     "esm": "latest",
     "express": "latest",
     "express-rate-limit": "latest",
-    "helmet": "latest",
+    "helmet": "6.2.0",
     "multer": "latest",
     "node-fetch": "latest",
     "ws": "^7.4.6"
