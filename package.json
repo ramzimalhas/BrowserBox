@@ -68,7 +68,7 @@
     "csurf": "latest",
     "esm": "latest",
     "express": "latest",
-    "express-rate-limit": "latest",
+    "express-rate-limit": "6.11.2",
     "helmet": "latest",
     "multer": "latest",
     "node-fetch": "latest",
