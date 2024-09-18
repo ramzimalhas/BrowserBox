@@ -67,7 +67,7 @@
     "cookie-parser": "latest",
     "csurf": "latest",
     "esm": "latest",
-    "express": "latest",
+    "express": "4.20.0",
     "express-rate-limit": "latest",
     "helmet": "latest",
     "multer": "latest",
